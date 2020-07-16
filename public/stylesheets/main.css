@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+footer {
+    position: relative;
+    background-color: black;
+    color: white;
+    height: 90px;
+}
+
+    footer p {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+main {
+    height: 450px;
+    overflow: scroll;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    height: 90px;
+}

@@ -1,0 +1,3 @@
+D:\Node.JS\passporJS\passporJS\obj\Debug\passporJS.njsprojAssemblyReference.cache
+D:\Node.JS\passporJS\passporJS\obj\Debug\passporJS.njsproj.CoreCompileInputs.cache
+D:\Node.JS\passporJS\passporJS\bin\Microsoft.NodejsTools.WebRole.dll
